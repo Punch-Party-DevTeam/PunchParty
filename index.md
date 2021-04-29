@@ -7,7 +7,8 @@ On day 1 we did some research into movement and even tried out AlS [Link](https:
 ![Image](https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg)
 
 
-'Printstring(Coconut)'
+`PrintString(Cocont)` 
+
 ### Markdown
 
 
