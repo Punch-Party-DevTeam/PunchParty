@@ -9,6 +9,12 @@ On day 1 we did some research into movement and even tried out AlS [Link](https:
 
 ![Image](https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg)
 
+Vitor Also Set up the basic Cards for Our Trello Page
+
+![image](https://user-images.githubusercontent.com/46977318/116631999-01f04980-a94e-11eb-9978-df73fc691113.png)
+
+
+
 
 `PrintString(Cocont)` 
 
