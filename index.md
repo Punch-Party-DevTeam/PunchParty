@@ -1,12 +1,13 @@
 ### Untitled Boxer
 
+#Day 1
+On day 1 we did some research into movement and even tried out AlS(https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) Which we decied while cool it had to much stuff that we didn't need so we instead decieded to develop our our boxing system.  
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
