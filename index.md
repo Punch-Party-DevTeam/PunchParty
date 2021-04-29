@@ -1,7 +1,7 @@
 ### Untitled Boxer
 
 
-```Daily Diary
+```DailyDiary
 
 ## Day 1
 
