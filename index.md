@@ -14,6 +14,11 @@ On day 2 we decided to add animations to the character and see how it looks Vito
     allowfullscreen>
 </iframe>
 
+In This Video We are just using Simple Montages To play each Animations as this is the method we know how to do but we may change it to an animation graph in the future 
+
+![image](https://user-images.githubusercontent.com/46977318/116744260-fce4d600-a9f1-11eb-8dc6-8437caefdb84.png)
+
+
 ## Day 1
 
 On day 1 we did some research into movement and even tried out AlS [Link](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) Which we decied while cool it had to much stuff that we didn't need so we instead decieded to develop our boxing system.  
