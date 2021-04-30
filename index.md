@@ -7,7 +7,7 @@ On day 2 we decided to add animations to the character and see how it looks Vito
 ![image](https://user-images.githubusercontent.com/46977318/116742019-b5107f80-a9ee-11eb-9f5d-511d5bb926b8.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UE_TRkOGf2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Image](https://www.youtube.com/embed/UE_TRkOGf2c)
 
 
 ## Day 1
