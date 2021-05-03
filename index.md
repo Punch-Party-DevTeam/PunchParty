@@ -5,7 +5,7 @@
 ## Day 3
 On day 3 we decided to get a simple main menu working 
 
-![image](https://user-images.githubusercontent.com/46977318/116902118-a9ad9600-ac32-11eb-81d6-d58d0e05fedb.png)
+![image](https://user-images.githubusercontent.com/46977318/116902180-bc27cf80-ac32-11eb-8271-70472b36d4a7.png)
 
 
 
