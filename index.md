@@ -1,6 +1,13 @@
 ### Untitled Boxer
 
 
+
+## Day 3
+On day 3 we decided to get a simple main menu working 
+
+
+
+
 ## Day 2
 On day 2 we decided to add animations to the character and see how it looks Vitor also drew up a concept art sketch 
 
