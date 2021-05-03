@@ -1,6 +1,16 @@
 ### Untitled Boxer
 
 
+### Week 1 Summary 
+This week we researched and implimated punching animations 
+<iframe src="https://www.youtube.com/embed/UE_TRkOGf2c" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+We also drew some Conept Art, And Did some work on a basic main menu 
 
 ## Day 3
 On day 3 we decided to get a simple main menu working 
