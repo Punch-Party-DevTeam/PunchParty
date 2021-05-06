@@ -1,6 +1,13 @@
 ### Untitled Boxer
 
 
+## Day 4
+Today The Team Implimatented Collisions and also created A punch bag which reacts to being hit by the player
+
+![image](https://user-images.githubusercontent.com/46977318/117355925-116e1600-aeab-11eb-896b-2248675ad9d8.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWriI_tfT10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Week 1 Summary 
 This week we researched and implimated punching animations 
 <iframe src="https://www.youtube.com/embed/UE_TRkOGf2c" 
