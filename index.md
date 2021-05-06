@@ -17,7 +17,7 @@ This week we researched and implimated punching animations
     allowfullscreen>
 </iframe>
 
-We also drew some Cocept Art, And Did some work on a basic main menu 
+We also drew some Concept Art, And Did some work on a basic main menu 
 
 ## Day 3
 On day 3 we decided to get a simple main menu working 
