@@ -2,8 +2,10 @@
 
 
 ## Day 5
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/dogecoin/comments/n8jk35/to_all_the_bitchies_and_mitchies_that_had_weak/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="644" width="640" scrolling="no"></iframe>
 
+![image](![image](https://user-images.githubusercontent.com/46888737/118414357-eef2ae80-b69b-11eb-861b-9d2bd9fc85aa.png))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWriI_tfT10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 4
