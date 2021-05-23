@@ -1,8 +1,10 @@
 ### Untitled Boxer
 
 ## Progress Log 6
+
 #First Map Farm Level
-We have created the first map its meant to have a farm setting 
+
+We created the first map its meant to have a farm setting 
 ![image](https://user-images.githubusercontent.com/46977318/119278547-db0bf700-bc1d-11eb-800c-284e1f490219.png)
 
 
@@ -11,6 +13,7 @@ We have created the first map its meant to have a farm setting
 ,
 
 #Targeting System
+
 we also added a targeting system that kind of works but will get better 
 
 ![image](https://user-images.githubusercontent.com/46977318/119278559-f1b24e00-bc1d-11eb-8f19-dd869c707013.png)
