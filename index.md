@@ -2,7 +2,7 @@
 
 ## Progress Log 6
 
-# First Map Farm Level
+### First Map Farm Level
 
 We created the first map its meant to have a farm setting 
 ![image](https://user-images.githubusercontent.com/46977318/119278547-db0bf700-bc1d-11eb-800c-284e1f490219.png)
@@ -12,7 +12,7 @@ We created the first map its meant to have a farm setting
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRz1MSqi35Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ,
 
-# Targeting System
+### Targeting System
 
 we also added a targeting system that kind of works but will get better 
 
@@ -25,7 +25,7 @@ we also added a targeting system that kind of works but will get better
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruLcynb7Qck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Improved Damage System
+### Improved Damage System
 And we have also added a variable damage system depending on which body part you hit the more damage it does 
 
 ![image](https://user-images.githubusercontent.com/46977318/119278607-3b9b3400-bc1e-11eb-8b5c-f1ed7900cab2.png)
@@ -34,7 +34,7 @@ And we have also added a variable damage system depending on which body part you
 
 ![image](https://user-images.githubusercontent.com/46977318/119278681-b19f9b00-bc1e-11eb-9b03-f9a13282b65b.png)
 
-# Stamina
+### Stamina
 plus a stamina system to prevent spamming  
 
 ![image](https://user-images.githubusercontent.com/46977318/119278642-6be2d280-bc1e-11eb-8bb5-afd79acab081.png)
