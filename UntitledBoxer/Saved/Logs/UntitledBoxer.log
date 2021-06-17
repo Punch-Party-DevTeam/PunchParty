@@ -7384,3 +7384,217 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.06.17-00.30.48:455][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
 [2021.06.17-00.30.48:956][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
 [2021.06.17-00.30.49:456][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.49:956][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.50:457][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.50:957][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.51:457][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.51:958][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.52:458][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.52:959][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.53:460][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.53:961][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.54:462][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.54:962][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.55:462][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.55:963][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.56:464][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.56:965][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.57:465][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.57:965][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.58:466][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.58:967][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.59:467][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.30.59:967][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.00:468][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.00:969][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.01:469][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.01:970][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.02:471][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.02:972][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.03:473][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.03:973][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.04:473][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.04:974][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.05:476][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.05:977][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.06:478][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.06:979][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.07:479][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.07:979][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.08:480][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.08:981][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.09:481][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.09:981][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.10:481][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.10:982][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.11:483][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.11:983][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.12:484][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.12:984][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.13:485][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.13:985][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.14:486][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.14:987][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.15:488][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.15:989][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.16:490][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.16:990][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.17:490][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.17:991][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.18:491][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.18:992][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.19:492][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.19:992][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.20:492][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.20:993][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.21:493][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.21:994][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.22:494][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.22:995][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.23:495][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.23:996][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.24:496][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.24:997][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.25:497][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.25:997][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.26:498][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.26:998][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.27:499][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.27:999][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.28:500][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.29:000][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.29:501][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.30:001][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.30:502][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.31:002][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.31:503][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.32:004][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.32:505][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.33:006][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.33:507][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.34:008][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.34:509][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.35:010][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.35:511][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.36:012][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.36:513][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.37:013][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.37:514][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.38:014][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.38:515][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.39:015][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.39:515][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.40:016][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.40:516][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.41:017][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.41:518][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.42:018][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.42:519][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.43:020][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.43:520][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.44:020][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.44:521][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.45:021][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.45:522][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.46:022][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.46:523][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.47:023][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.47:524][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.48:024][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.48:525][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.49:025][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.49:525][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.50:025][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.50:526][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.51:026][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.51:527][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.52:027][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.52:528][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.53:028][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.53:528][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.54:029][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.54:530][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.55:030][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.55:531][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.56:032][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.56:532][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.57:033][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.57:533][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.58:034][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.58:534][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.59:034][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.31.59:535][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.00:035][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.00:535][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.01:036][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.01:536][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.02:037][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.02:538][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.03:039][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.03:540][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.04:041][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.04:542][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.05:043][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.05:544][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.06:045][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.06:546][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.07:046][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.07:547][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.08:047][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.08:548][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.09:049][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.09:550][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.10:050][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.10:551][357]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C2E6F9A-4231-344F-F749-A9829C38B1F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1900bc1b4a468a2d1a62bcb2bb7862d5%7C612feb366e0b41248873f4c1b1168519%7Cc56419bc-3503-49da-aae8-75b49168218a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: request failed, libcurl error: 0 (No error)
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x195ace1feb0 [can pipeline])
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.171.105.74) port 443 (#0))
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 4 (Closing connection 0)
+[2021.06.17-00.32.11:052][357]LogHttp: Warning: 000001963D7D8100: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.06.17-00.32.11:054][357]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.06.17-00.32.11:056][357]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.06.17-00.32.11:283][357]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.06.17-00.32.11:285][357]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.06.17-00.32.11:285][357]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.06.17-00.32.11:330][357]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.06.17-00.32.11:361][357]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.06.17-00.32.11:362][357]LogModuleManager: Shutting down and abandoning module Water (62)
+[2021.06.17-00.32.11:362][357]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.06.17-00.32.11:369][357]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.06.17-00.32.11:369][357]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.06.17-00.32.11:379][357]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.06.17-00.32.11:379][357]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.06.17-00.32.11:380][357]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.06.17-00.32.11:380][357]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.06.17-00.32.11:398][357]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.17-00.32.11:412][357]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.17-00.32.11:412][357]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.17-00.32.11:412][357]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.17-00.32.11:412][357]LogXGEController: Cleaning working directory: C:/Users/vmanb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.17-00.32.11:412][357]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.17-00.32.11:432][357]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.17-00.32.11:539][357]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.17-00.32.11:540][357]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.17-00.32.11:617][357]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.17-00.32.11:617][357]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.17-00.32.11:617][357]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.17-00.32.11:638][357]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.17-00.32.11:687][357]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.17-00.32.11:687][357]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.17-00.32.11:698][357]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.17-00.32.11:698][357]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.17-00.32.11:713][357]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.17-00.32.11:713][357]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.17-00.32.11:724][357]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.17-00.32.11:724][357]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.17-00.32.11:740][357]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.17-00.32.11:782][357]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.17-00.32.11:782][357]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.17-00.32.11:807][357]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.17-00.32.11:831][357]LogD3D11RHI: Shutdown
+[2021.06.17-00.32.11:831][357]LogD3D11RHI: CleanupD3DDevice
+[2021.06.17-00.32.11:963][357]LogExit: Exiting.
+[2021.06.17-00.32.11:979][357]Log file closed, 06/17/21 01:32:11
