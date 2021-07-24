@@ -1,5 +1,25 @@
 ### Untitled Boxer
 
+## Progress Log 
+
+### Third Map Pirate Level
+
+The third map we made is of pirates landing on a beach with palm trees and mountains and volcanos in the background
+Similarly to the mountain level we used a water body custom and a dip in the landscape to give the impression of a beach 
+
+![image] ![PirateLevel](https://user-images.githubusercontent.com/46888737/126852572-c6bb8fd8-a390-4d62-a9ee-ab1cbcbf1170.png)
+
+
+## Progress Log 7
+
+### Second Map Mountain Level
+
+The second map we created is set in a mountain beside a cave and a waterfall
+We used a water body custom that was built into unreal engine and used the landscape tool to create a dip in the landscape to give the impression that the waterfall leads into a river
+
+![image] (![MountainLevel](https://user-images.githubusercontent.com/46888737/126852358-58f62535-ca18-4cfa-aed6-7ca0cc07dba5.png))
+
+
 ## Progress Log 6
 
 ### First Map Farm Level
