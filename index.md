@@ -2,6 +2,17 @@
 
 ## Progress Log 
 
+### Opponent Selector Progress Made
+
+
+![image](https://user-images.githubusercontent.com/46977318/127535685-32df5496-539d-43c6-b95d-1c6fc3167151.png)
+
+
+![image](https://user-images.githubusercontent.com/46977318/127535733-898b8a39-5651-4718-9d9c-5d6930fb7671.png)
+
+
+
+
 ### Third Map Pirate Level
 
 The third map we made is of pirates landing on a beach with palm trees and mountains and volcanos in the background
