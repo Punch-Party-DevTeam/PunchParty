@@ -12,16 +12,33 @@
 
 ### Opponent Selection 
 
-https://www.youtube.com/watch?v=edZhHlkPsV0
+ <iframe src="https://www.youtube.com/watch?v=edZhHlkPsV0" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
 
 ### Improved Attack Animations
 
 
-https://www.youtube.com/watch?v=gR9ifjFSL_w
+<iframe src="https://www.youtube.com/watch?v=gR9ifjFSL_w" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 ### Body Customization Added
 
-https://www.youtube.com/watch?v=AigyO_O2XPQ
+<iframe src="https://www.youtube.com/watch?v=AigyO_O2XPQ" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
 
 ### Opponent Selector Progress Made
 
