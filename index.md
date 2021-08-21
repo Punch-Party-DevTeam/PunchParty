@@ -2,6 +2,27 @@
 
 ## Progress Log 
 
+
+
+
+### CellShading Added
+
+
+![image](https://user-images.githubusercontent.com/46977318/130303812-8eacb744-e9a7-4db3-8148-7f92bed32e63.png)
+
+### Opponent Selection 
+
+https://www.youtube.com/watch?v=edZhHlkPsV0
+
+### Improved Attack Animations
+
+
+https://www.youtube.com/watch?v=gR9ifjFSL_w
+
+### Body Customization Added
+
+https://www.youtube.com/watch?v=AigyO_O2XPQ
+
 ### Opponent Selector Progress Made
 
 
