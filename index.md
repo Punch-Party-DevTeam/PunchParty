@@ -8,7 +8,7 @@
 
 theres a gameplay loop players can now fight fighters to gain fame so they can then fight harder fighters
 
-done it theres a loop players can now fight fighters to gain fame so they can then fight harder fighters 
+
 
 ### CellShading Added
 
