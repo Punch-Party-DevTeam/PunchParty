@@ -6,6 +6,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqEHmR51q9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+theres a gameplay loop players can now fight fighters to gain fame so they can then fight harder fighters
+
 done it theres a loop players can now fight fighters to gain fame so they can then fight harder fighters 
 
 ### CellShading Added
