@@ -2,6 +2,12 @@
 
 ## Progress Log 
 
+### Final Look of Maps
+
+![HighresScreenshot00001](https://user-images.githubusercontent.com/46977318/130543441-5be4cc2f-4a80-46c9-92e8-c5dbbf497f69.png)
+![HighresScreenshot00002](https://user-images.githubusercontent.com/46977318/130543442-20385a2d-d84d-4e72-a877-353b4aba5676.png)
+![HighresScreenshot00000](https://user-images.githubusercontent.com/46977318/130543446-35180d4a-089d-40b9-a528-e4a5638d23f4.png)
+![HighresScreenshot00003](https://user-images.githubusercontent.com/46977318/130543451-0890b037-8f8e-43d2-b705-062b17263148.png)
 
 
 
