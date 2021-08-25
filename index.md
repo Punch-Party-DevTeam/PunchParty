@@ -6,7 +6,7 @@
 
 ### Link to Playlist of Progress
 
-https://youtube.com/playlist?list=PLEfTD-e5YTEhn-6_Rjmw7xO9SSepxs2IT
+[Link](https://www.youtube.com/watch?v=UE_TRkOGf2c&list=PLEfTD-e5YTEhn-6_Rjmw7xO9SSepxs2IT&index=1)
 
 ### Features Showcase
 
