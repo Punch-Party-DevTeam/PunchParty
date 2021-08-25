@@ -2,6 +2,12 @@
 
 ## Progress Log 
 
+
+### Features Showcase
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39OR597tPFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Final Look of Maps
 
 ![HighresScreenshot00001](https://user-images.githubusercontent.com/46977318/130543441-5be4cc2f-4a80-46c9-92e8-c5dbbf497f69.png)
