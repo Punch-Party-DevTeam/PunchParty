@@ -3,6 +3,11 @@
 ## Progress Log 
 
 
+
+### Playlist of Progress
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLEfTD-e5YTEhn-6_Rjmw7xO9SSepxs2IT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Features Showcase
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39OR597tPFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
