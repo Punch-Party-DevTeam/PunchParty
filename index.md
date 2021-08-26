@@ -3,6 +3,20 @@
 ## Progress Log 
 
 
+### Game Finished & Uploaded to Itch.io 
+
+[Link to Store Page](https://vitormakesgames.itch.io/punch-party)
+ 
+ ![image](https://user-images.githubusercontent.com/46977318/131050474-81e6193b-b55b-4e71-8234-7b1c12e02dff.png)
+
+ 
+### Game Trailer
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/N-alVuCZe8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Link to quick Video Explation of features
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L846rZYWQhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Link to Playlist of Progress
 
